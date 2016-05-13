@@ -37,7 +37,7 @@
           <version>2.4</version>
           <configuration>
             <useDefaultManifestFile>true</useDefaultManifestFile>
-            <archive>
+            <archive> 
               <index>true</index>
               <manifestEntries>
                 <Bundle-Version>${project.version}</Bundle-Version>
